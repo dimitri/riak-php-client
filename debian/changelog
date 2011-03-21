@@ -1,0 +1,5 @@
+libphp-riak (0.10-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dimitri Fontaine <dim@tapoueh.org>  Mon, 21 Mar 2011 11:52:43 +0100

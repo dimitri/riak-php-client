@@ -1,6 +1,6 @@
 .pc
 debian/libphp-riak
-debian/*log
+debian/*.log
 debian/*substvars
 debian/patches/*
 docs/*html
