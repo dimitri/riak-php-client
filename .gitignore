@@ -1,0 +1,8 @@
+.pc
+debian/libphp-riak
+debian/*log
+debian/*substvars
+debian/patches/*
+docs/*html
+docs/*png
+docs/*css

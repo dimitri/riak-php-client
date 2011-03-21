@@ -1,0 +1,22 @@
+Source: libphp-riak
+Section: php
+Priority: extra
+Maintainer: Dimitri Fontaine <dim@tapoueh.org>
+Build-Depends: debhelper (>= 7.0.50~), doxygen, php5-curl
+Standards-Version: 3.9.1
+Homepage: https://github.com/basho/riak-php-client
+
+Package: libphp-riak
+Architecture: any
+Depends: ${misc:Depends}, php5
+Recommends: php5-cli
+Description: This is the official PHP client for Riak
+ Riak is a Dynamo-inspired database that is being used in production by
+ companies like Mozilla and Comcast. Riak scales predictably and easily and
+ simplifies development by giving users the ability to quickly prototype,
+ test, and deploy their applications.
+ .
+ A truly fault-tolerant system, Riak has no single point of failure. No
+ machines are special or central in Riak, so developers and operations
+ professionals can decide exactly how fault-tolerant they want and need
+ their applications to be.
